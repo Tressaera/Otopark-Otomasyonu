@@ -1,1 +1,3 @@
-# Otopark-Otomasyonu
+Uygulama Entity Framework mimarisi ile oluşturulmuştur.İçerisinde Admin girişi ile giriş yaptıktan sonra Marka sayfasında Araç oluşturduktan sonra Seri sayfasında modelini girerek CRUD(Create,Update,Delete) işlemini gerçekleştiriyor. Müşteri Ekle-Listele, Araç Girdi-Çıktı ve ne kadar sürede durduğu kadar ücreti belirlemekte oluyor.Park yeri kısmının dolu veya boş olmasına göre kutular renk değiştirerek aktif-pasif olabiliyor.Burada hangi aracın ID kısmı,Ad Soyad kısmı gibi aratarak da bulabiliyorsunuz ve kaydınız çıkmış oluyor.
+ 
+ ![uygulama görüntü](https://user-images.githubusercontent.com/104678461/211566314-9a56785b-030d-49a7-8918-8f7a7c04063b.png)
